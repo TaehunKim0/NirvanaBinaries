@@ -2658,6 +2658,14 @@
 			"Type": "SymbolFile"
 		},
 		{
+			"Path": "$(EngineDir)/Plugins/Marketplace/Developer/RiderLink/Binaries/Win64/UnrealEditor-RiderLC.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Marketplace/Developer/RiderLink/Binaries/Win64/UnrealEditor-RiderLC.pdb",
+			"Type": "SymbolFile"
+		},
+		{
 			"Path": "$(EngineDir)/Plugins/Marketplace/Developer/RiderLink/Binaries/Win64/UnrealEditor-RiderLink.dll",
 			"Type": "DynamicLibrary"
 		},
