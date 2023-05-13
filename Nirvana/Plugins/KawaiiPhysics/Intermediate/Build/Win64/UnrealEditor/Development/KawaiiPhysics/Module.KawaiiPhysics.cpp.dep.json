@@ -1,0 +1,36 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\jack0\\github\\nirvana\\nirvana\\plugins\\kawaiiphysics\\intermediate\\build\\win64\\unrealeditor\\development\\kawaiiphysics\\module.kawaiiphysics.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\jack0\\github\\nirvana\\nirvana\\intermediate\\build\\win64\\nirvanaeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\jack0\\github\\nirvana\\nirvana\\plugins\\kawaiiphysics\\intermediate\\build\\win64\\unrealeditor\\development\\kawaiiphysics\\definitions.kawaiiphysics.h",
+            "c:\\users\\jack0\\github\\nirvana\\nirvana\\plugins\\kawaiiphysics\\intermediate\\build\\win64\\unrealeditor\\inc\\kawaiiphysics\\uht\\animnode_kawaiiphysics.gen.cpp",
+            "c:\\users\\jack0\\github\\nirvana\\nirvana\\plugins\\kawaiiphysics\\source\\kawaiiphysics\\public\\animnode_kawaiiphysics.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\animgraphruntime\\public\\bonecontrollers\\animnode_animdynamics.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\public\\animation\\animphysicssolver.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\animgraphruntime\\public\\bonecontrollers\\animnode_skeletalcontrolbase.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\animation\\inputscalebias.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\public\\animation\\animinstanceproxy.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\public\\animation\\animsync.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\animinstanceproxy.generated.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\inputscalebias.generated.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\animgraphruntime\\uht\\animnode_skeletalcontrolbase.generated.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\animgraphruntime\\public\\commonanimationtypes.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\animgraphruntime\\uht\\commonanimationtypes.generated.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\animgraphruntime\\uht\\animnode_animdynamics.generated.h",
+            "c:\\users\\jack0\\github\\nirvana\\nirvana\\plugins\\kawaiiphysics\\intermediate\\build\\win64\\unrealeditor\\inc\\kawaiiphysics\\uht\\animnode_kawaiiphysics.generated.h",
+            "c:\\users\\jack0\\github\\nirvana\\nirvana\\plugins\\kawaiiphysics\\intermediate\\build\\win64\\unrealeditor\\inc\\kawaiiphysics\\uht\\kawaiiphysics.init.gen.cpp",
+            "c:\\users\\jack0\\github\\nirvana\\nirvana\\plugins\\kawaiiphysics\\intermediate\\build\\win64\\unrealeditor\\inc\\kawaiiphysics\\uht\\kawaiiphysicslimitsdataasset.gen.cpp",
+            "c:\\users\\jack0\\github\\nirvana\\nirvana\\plugins\\kawaiiphysics\\source\\kawaiiphysics\\public\\kawaiiphysicslimitsdataasset.h",
+            "c:\\users\\jack0\\github\\nirvana\\nirvana\\plugins\\kawaiiphysics\\intermediate\\build\\win64\\unrealeditor\\inc\\kawaiiphysics\\uht\\kawaiiphysicslimitsdataasset.generated.h",
+            "c:\\users\\jack0\\github\\nirvana\\nirvana\\plugins\\kawaiiphysics\\source\\kawaiiphysics\\private\\animnode_kawaiiphysics.cpp",
+            "c:\\users\\jack0\\github\\nirvana\\nirvana\\plugins\\kawaiiphysics\\source\\kawaiiphysics\\private\\kawaiiphysics.cpp",
+            "c:\\users\\jack0\\github\\nirvana\\nirvana\\plugins\\kawaiiphysics\\source\\kawaiiphysics\\public\\kawaiiphysics.h",
+            "c:\\users\\jack0\\github\\nirvana\\nirvana\\plugins\\kawaiiphysics\\source\\kawaiiphysics\\private\\kawaiiphysicslimitsdataasset.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
