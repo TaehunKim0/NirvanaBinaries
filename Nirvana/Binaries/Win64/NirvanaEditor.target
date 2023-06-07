@@ -2358,6 +2358,18 @@
 			"Type": "RequiredResource"
 		},
 		{
+			"Path": "$(EngineDir)/Plugins/Experimental/GPULightmass/Binaries/Win64/UnrealEditor-GPULightmass.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Experimental/GPULightmass/Binaries/Win64/UnrealEditor-GPULightmassEditor.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Experimental/GPULightmass/Binaries/Win64/UnrealEditor.modules",
+			"Type": "RequiredResource"
+		},
+		{
 			"Path": "$(EngineDir)/Plugins/Experimental/GeometryCollectionPlugin/Binaries/Win64/UnrealEditor-GeometryCollectionEditor.dll",
 			"Type": "DynamicLibrary"
 		},
@@ -24317,6 +24329,10 @@
 		},
 		{
 			"Path": "$(EngineDir)/Plugins/Experimental/FullBodyIK/FullBodyIK.uplugin",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Experimental/GPULightmass/GPULightmass.uplugin",
 			"Type": "UFS"
 		},
 		{
