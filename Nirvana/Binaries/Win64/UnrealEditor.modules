@@ -2,7 +2,7 @@
 	"BuildId": "23058290",
 	"Modules": 
 	{
-		"Nirvana": "UnrealEditor-Nirvana-0021.dll",
-		"YCNetSys": "UnrealEditor-YCNetSys-0021.dll"
+		"Nirvana": "UnrealEditor-Nirvana.dll",
+		"YCNetSys": "UnrealEditor-YCNetSys.dll"
 	}
 }
