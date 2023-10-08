@@ -2,7 +2,6 @@
 	"BuildId": "27405482",
 	"Modules": 
 	{
-		"Nirvana": "UnrealEditor-Nirvana.dll",
-		"NirvanaEditorExtension": "UnrealEditor-NirvanaEditorExtension.dll"
+		"Nirvana": "UnrealEditor-Nirvana.dll"
 	}
 }
