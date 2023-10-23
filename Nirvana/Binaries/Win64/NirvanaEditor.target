@@ -2074,6 +2074,14 @@
 			"Type": "RequiredResource"
 		},
 		{
+			"Path": "$(EngineDir)/Plugins/Editor/BlueprintMaterialTextureNodes/Binaries/Win64/UnrealEditor-BlueprintMaterialTextureNodes.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Editor/BlueprintMaterialTextureNodes/Binaries/Win64/UnrealEditor.modules",
+			"Type": "RequiredResource"
+		},
+		{
 			"Path": "$(EngineDir)/Plugins/Editor/ChangelistReview/Binaries/Win64/UnrealEditor-ChangelistReview.dll",
 			"Type": "DynamicLibrary"
 		},
@@ -24488,6 +24496,10 @@
 			"Type": "UFS"
 		},
 		{
+			"Path": "$(EngineDir)/Plugins/Editor/BlueprintMaterialTextureNodes/BlueprintMaterialTextureNodes.uplugin",
+			"Type": "UFS"
+		},
+		{
 			"Path": "$(EngineDir)/Plugins/Editor/ChangelistReview/ChangelistReview.uplugin",
 			"Type": "UFS"
 		},
@@ -24721,6 +24733,10 @@
 		},
 		{
 			"Path": "$(EngineDir)/Plugins/Experimental/VirtualHeightfieldMesh/VirtualHeightfieldMesh.uplugin",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Experimental/Volumetrics/Volumetrics.uplugin",
 			"Type": "UFS"
 		},
 		{
