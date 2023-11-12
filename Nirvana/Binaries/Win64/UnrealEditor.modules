@@ -3,6 +3,6 @@
 	"Modules": 
 	{
 		"Nirvana": "UnrealEditor-Nirvana.dll",
-		"NirvanaEditorExtension": "UnrealEditor-NirvanaEditorExtension-0001.dll"
+		"NirvanaEditorExtension": "UnrealEditor-NirvanaEditorExtension.dll"
 	}
 }
